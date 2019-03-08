@@ -1,0 +1,22 @@
+{
+  "name": "threejs_vr_box",
+  "version": "0.1.0",
+  "description": "VR Basic environment on Three.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.odd.red/vr/threejs_vr_box.git"
+  },
+  "keywords": [
+    "VR",
+    "Threejs"
+  ],
+  "author": "Marco Pompili",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
+}

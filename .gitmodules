@@ -1,0 +1,9 @@
+[submodule "src/js/leapjs"]
+	path = src/js/leapjs
+	url = https://github.com/leapmotion/leapjs
+[submodule "src/js/leapjs-plugins"]
+	path = src/js/leapjs-plugins
+	url = https://github.com/leapmotion/leapjs-plugins.git
+[submodule "src/js/three.js"]
+	path = src/js/three.js
+	url = https://github.com/mrdoob/three.js.git
