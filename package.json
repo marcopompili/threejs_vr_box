@@ -17,6 +17,6 @@
   "author": "Marco Pompili",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "~6.8.x"
+    "eslint": "~7.3.x"
   }
 }
